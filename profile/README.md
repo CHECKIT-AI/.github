@@ -67,7 +67,4 @@ CheckIt은 이러한 어려움을 줄이기 위해 다음과 같은 검토를 �
 
 ## 관련 링크
 
-- 서비스: 추가 예정
-- 기획 / 발표 자료: 추가 예정
-- 디자인: 추가 예정
-- API 문서: 추가 예정
+- 노션 : https://app.notion.com/p/AI-3f10c3423c4f80df82f7c56e450fe19c?source=copy_link
